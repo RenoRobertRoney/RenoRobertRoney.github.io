@@ -1,57 +1,104 @@
-👨‍💻 Reno Robert Roney
+<h1 align="center">👨‍💻 Reno Robert Roney</h1>
 
-Hi — I’m Reno Robert Roney, a BCA (Hons) student at Rajagiri College of Social Sciences.
-I enjoy building practical software applications while strengthening my fundamentals in programming, databases, and problem-solving. I’m passionate about turning ideas into clean, simple, and usable solutions.
+<p align="center">
+BCA (Hons) Student | Full Stack Learner | Problem Solver
+</p>
 
-🔧 Skills
+---
 
-Programming Languages: C, Python, Java, JavaScript
+## 🧑‍💼 About Me
 
-Web Technologies: HTML, CSS, React.js
+Hi — I’m **Reno Robert Roney**, a BCA (Hons) student at Rajagiri College of Social Sciences.  
+I enjoy building practical software applications while strengthening my fundamentals in programming, databases, and problem-solving.  
 
-Databases: DBMS fundamentals, MongoDB
+I’m passionate about turning ideas into clean, simple, and usable solutions.
 
-Concepts: OOP, SDLC, Problem Solving
+---
 
-Tools: Git, GitHub
+## 🌐 Socials
 
-🚀 Projects
-📚 Online Book Store (React.js)
+<p align="left">
+<a href="https://www.linkedin.com/in/reno-robert-roney-690989323/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://github.com/RenoRobertRoney"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+<a href="mailto:renorobertroney777@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+</p>
 
-A full-stack web application that allows users to browse books, view details, and manage a shopping cart.
-Highlights: component-based UI, cart management, clean navigation flow.
-Tech: React.js, JavaScript, MongoDB
+---
 
-🚗 Car Price Prediction
+## 🔧 Tech Stack
 
-A machine learning project that predicts car prices based on features such as brand, year, mileage, and fuel type.
-Highlights: data preprocessing, feature selection, model training, and evaluation.
-Tech: Python, Machine Learning
+### 💻 Programming Languages
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
-🔥 Gas Booking System
+### 🌐 Web Technologies
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
 
-A Java-based reservation and management system for booking gas cylinders.
-Highlights: structured booking flow, input validation, and record storage using file handling.
-Tech: Java
+### 🗄 Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
 
-🎨 Pixel Art using Tkinter
+### ⚙ Tools
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 
-A lightweight Python GUI application that allows users to draw pixel art on a grid and save their creations.
-Highlights: grid-based canvas, color palette, save functionality, simple UI.
-Tech: Python, Tkinter
+---
 
-🎯 What I’m Learning
+## 🚀 Projects
 
-Improving problem-solving and software design skills
+### 📚 Online Book Store (React.js)
+- Full-stack web app for browsing and purchasing books  
+- Features: cart system, UI navigation  
+- Tech: React.js, JavaScript, MongoDB  
 
-Building full-stack and database-backed applications
+---
 
-Exploring backend development and scalable systems
+### 🚗 Car Price Prediction
+- Machine learning model to predict car prices  
+- Features: preprocessing, model training  
+- Tech: Python, ML  
 
-📫 Contact
+---
 
-📧 Email: renorobertroney777@gmail.com
+### 🔥 Gas Booking System
+- Java-based booking system  
+- Features: input validation, file handling  
+- Tech: Java  
 
-💻 GitHub: https://github.com/RenoRobertRoney
+---
 
+### 🎨 Pixel Art using Tkinter
+- GUI app to create pixel art  
+- Features: grid canvas, save option  
+- Tech: Python, Tkinter  
+
+---
+
+## 🎯 What I’m Learning
+
+- Problem-solving & software design  
+- Full-stack development  
+- Backend & scalable systems  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=RenoRobertRoney&show_icons=true&theme=dark">
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RenoRobertRoney&theme=dark">
+</p>
+
+---
+
+## 📫 Contact
+
+📧 Email: renorobertroney777@gmail.com  
+💻 GitHub: https://github.com/RenoRobertRoney  
 🔗 LinkedIn: https://www.linkedin.com/in/reno-robert-roney-690989323/
