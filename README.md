@@ -1,5 +1,4 @@
-<h1 align="center">👨‍💻 Reno Robert Roney</h1>
-
+<h2 align="center">👨‍💻 Reno Robert Roney</h2>
 <p align="center">
 BCA (Hons) Student | Full Stack Learner | Problem Solver
 </p>
