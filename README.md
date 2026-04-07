@@ -106,26 +106,6 @@ I am particularly interested in **full-stack development** and love working on p
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RenoRobertRoney&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RenoRobertRoney&theme=tokyonight"/>
-</p>
-
----
-
-## 📫 Contact Me
-
-📧 Email: **renorobertroney777@gmail.com**  
-💻 GitHub: https://github.com/RenoRobertRoney  
-🔗 LinkedIn: https://www.linkedin.com/in/reno-robert-roney-690989323/
-
----
-
 <p align="center">
 ⭐ *“Turning ideas into reality through code.”*
 </p>
