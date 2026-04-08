@@ -5,9 +5,11 @@
 </p>
 
 <p align="center">
-<a href="https://komarev.com/ghpvc/?username=RenoRobertRoney">
+<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Passionate+Developer;Full+Stack+Learner;Building+Real+World+Projects;Always+Learning+New+Things" />
+</p>
+
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=RenoRobertRoney&style=flat-square&color=blue" />
-</a>
 </p>
 
 ---
@@ -16,9 +18,9 @@
 
 Hi 👋 — I’m **Reno Robert Roney**, a passionate **BCA (Hons) student at Rajagiri College of Social Sciences**.
 
-I enjoy building **real-world software applications** that are simple, efficient, and user-friendly. My focus is on strengthening my core knowledge in **programming, databases, and software development principles**, while continuously improving my **problem-solving and logical thinking skills**.
+I enjoy building **real-world software applications** that are clean, efficient, and user-friendly. I continuously work on strengthening my fundamentals in **programming, databases, and software development principles**, while improving my **problem-solving and analytical thinking skills**.
 
-I am particularly interested in **full-stack development** and love working on projects that combine both frontend and backend technologies. I’m always eager to learn new tools, explore modern technologies, and grow as a developer by building meaningful and scalable solutions.
+I am deeply interested in **full-stack development** and love creating applications that integrate both frontend and backend technologies. I’m always eager to explore new tools, adapt to modern technologies, and grow as a developer by building meaningful and scalable solutions.
 
 ---
 
@@ -31,7 +33,7 @@ I am particularly interested in **full-stack development** and love working on p
 <a href="https://github.com/RenoRobertRoney">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
 </a>
-<a href="renorobertroney777@gmail.com">
+<a href="mailto:renorobertroney777@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
 </a>
 </p>
@@ -100,12 +102,12 @@ I am particularly interested in **full-stack development** and love working on p
 
 ## 🎯 Currently Learning
 
-✨ Improving problem-solving skills  
-✨ Full-stack application development  
-✨ Backend systems & scalable architectures  
+✨ Data Structures & Algorithms  
+✨ Full-stack development  
+✨ Backend systems & scalability  
 
 ---
 
 <p align="center">
-⭐ *“Turning ideas into reality through code.”*
+⭐ <i>“Turning ideas into reality through code.”</i>
 </p>
