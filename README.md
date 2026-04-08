@@ -33,14 +33,8 @@ I am deeply interested in **full-stack development** and love creating applicati
 <a href="https://github.com/RenoRobertRoney">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
 </a>
-<a href="mailto:renorobertroney777@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
-</a>
-
-<br>
-
 <a href="https://mail.google.com/mail/?view=cm&to=renorobertroney777@gmail.com">
-📧 Click here if email button doesn't work
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
 </a>
 </p>
 
