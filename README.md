@@ -34,12 +34,7 @@ I am deeply interested in **full-stack development** and love creating applicati
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
 </a>
 <p align="center">
-<img src="https://img.shields.io/badge/Email-renorobertroney777@gmail.com-red?style=for-the-badge&logo=gmail" />
-</p>
-
-<p align="center">
-📋 <b>Copy Email:</b> <code>renorobertroney777@gmail.com</code>
-</p>
+<img src="https://img.shields.io/badge/Email-renorobert777@gmail.com-red?style=for-the-badge&logo=gmail" />
 </p>
 
 ---
